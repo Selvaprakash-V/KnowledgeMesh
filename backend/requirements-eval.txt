@@ -1,0 +1,4 @@
+# Optional answer-quality metrics. Install after the core requirements:
+# pip install -r requirements-eval.txt
+ragas>=0.2.14
+datasets>=3.0.0

@@ -1,0 +1,3 @@
+# Optional local embedding and BGE reranker support.
+# Install separately: pip install -r requirements-local.txt
+sentence-transformers>=3.4.1
